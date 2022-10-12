@@ -1,0 +1,79 @@
+body {
+  text-align: center;
+  font-family: 'Mohave', sans-serif;
+  margin: 0;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 400px;
+  bottom: 200px;
+  width: 100px;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 250px;
+  width: 100px;
+
+}
+.introduction{
+  position: relative;
+  padding-top: 100px;
+  background-color: #DF7861
+}
+
+h1{
+  line-height: 0.5;
+}
+
+h2{
+  color:#F2D388;
+  font-weight: normal;
+}
+
+a{
+  color:#F2D388;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto;
+  text-align:left;
+  line-height: 2;
+    margin-top: 0px;
+}
+
+.gtr-image{
+  width: 200px;
+  float: left;
+  margin-right: 30px;
+
+
+}
+.profile{
+  text-align: left;
+  margin-left: 200px;
+}
+
+.image{
+  width: 200px;
+  float: left;
+  margin-right: 30px
+}
+.handsome{
+  float: left;
+  margin-right: 200px;
+  margin-top:20px;
+}
+
+.bottom-container{
+  background-color: #94B49F
+}
+
+.middle-container{
+  background-color: #DF7861
+}
+FCF8E8
+DF7861
